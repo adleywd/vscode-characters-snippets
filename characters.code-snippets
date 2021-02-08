@@ -1,0 +1,12 @@
+{
+    "Backslash": {
+        "prefix": "!backslash",
+        "body": "\\",
+        "description": "Add backslash"
+    },
+    "Pipe": {
+        "prefix": "!pipe",
+        "body": "|",
+        "description": "Add backslash"
+    }
+}
