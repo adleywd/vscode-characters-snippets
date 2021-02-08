@@ -1,12 +1,12 @@
 ## VsCode characteres snippets
 
-### What is ?
+### What is?
 
-* It is a simple snippet to make easier to access some characteres
+* It is a simple snippet to make it easier to access some characters
 
-### Why ?
+### Why?
 
-* Sometimes we use a keyboard that does not contain a characteres for a specific language
+* Sometimes we use a keyboard that does not contain a character for a specific language
 * Actually, it is just to make my life easier :)
 
 ### Installation
