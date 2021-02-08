@@ -20,5 +20,5 @@
 
 ### How to use
 
-* Type !backslack for a backslack (\)
+* Type !backslack for a backslack (\\)
 * Type !pipe for a Pipe (|)
